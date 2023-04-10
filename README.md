@@ -1,4 +1,4 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm Ritik 🙌 💁
 
 I'm a Full Stack software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include NextJS, NestJS and Android development. In 2021, I won Smart India Hackathon beating 2100+ competitors. 
 
