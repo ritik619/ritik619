@@ -1,4 +1,4 @@
-# Hi, I'm Ritik 🙌 💁
+# Hi, I'm Ritik, Bucha is the best ! 🙌 💁
 ![](https://komarev.com/ghpvc/?username=ritik619)<br/>
 I'm a Full Stack software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with includes NextJS, NestJS and Android development.
 In 2021, I won Smart India Hackathon beating 2100+ competitors. 
@@ -7,3 +7,10 @@ In 2021, I won Smart India Hackathon beating 2100+ competitors.
 <div align>&nbsp;&nbsp;&nbsp;- Sharing updates on <a href="https://www.linkedin.com/in/ritik1/">LinkedIn</a><img align="center" height="28" width="28" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></div>
 <div align>&nbsp;&nbsp;&nbsp;- Connect via mail <a href="mailto:ritiksaini619@gmail.com" href="https://www.linkedin.com/in/ritik1/">ritiksaini619@gmail.com 📧</a>
 <div align>&nbsp;&nbsp;&nbsp;- Want to hire me? <a href="https://github.com/ritik619/ritik619/blob/4a39ade52b84f63d1751ca9a46ed066dc9554d3d/Ritik_Saini_FS_2_YOE.pdf">Resume </a> <img align="center" height="20" width="20" src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png"></img></div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ritik619&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EzioPearce&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=EzioPearce&icon=0&color=0)](https://visitcount.itsvg.in)
