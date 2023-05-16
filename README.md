@@ -1,11 +1,10 @@
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EzioPearce&icon=0&color=0" alt="asdas!" />
+<div align="center" >
+  <img src="https://visitcount.itsvg.in/api?id=ritik619&icon=0&color=0" alt="asdas!" />
  </div>
 
 <div align="center">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/githubfinal.png?alt=media&token=e72d24cc-368e-4702-b762-7b214504805b" alt="Namaste!"/>
-
-    <h1>नमस्ते, I am Ritik <img
+    <img height="100" src="https://github.com/ritik619/ritik619/blob/98a71231c352c1d3f765600712b140a0e84c9559/pngegg.png" alt="Namaste!"></img>
+    <h1>I am Ritik <img
             src="https://emojis.slackmojis.com/emojis/images/1601425652/10677/among_us.png?1601425652" width="32"></h1>
     <p>
         <a href="https://twitter.com/ritik619" target="_blank"><img alt="Twitter"
@@ -18,14 +17,17 @@
                 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
         <a href="https://t.me/ritik619"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-    </p><br />
+    </p>
+    <br />
     <p>🙏🏻 Welcome to my Github profile!<br />
 I'm a Full Stack software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with includes NextJS, NestJS and Android development.
 In 2021, I won Smart India Hackathon beating 2100+ competitors.
-        I am a <b>Fullstack developer</b> 🚀 from <b>Bhopal, India</b> <img
+I am a <b>Fullstack developer</b> 🚀 from <b>Bhopal, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+
 </div>
+
 
 ### :octocat: Github Stats
 <p align="center">
