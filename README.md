@@ -19,11 +19,10 @@
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
     </p>
     <br />
-    <p>🙏🏻 Welcome to my Github profile!<br />
-I'm a Full Stack software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with includes NextJS, NestJS and Android development.
+    <p>🙏🏻 Welcome to my GitHub profile!<br />
+I'm a Full Stack software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with are NextJS, NestJS, and Android development.
 In 2021, I won Smart India Hackathon beating 2100+ competitors.
-I am a <b>Fullstack developer</b> 🚀 from <b>Bhopal, India</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+I am a <b>Fullstack developer</b> 🚀 from <b>Bhopal, India</b>.<br />
 I love building side projects 😍, and most of them are <b>Open source</b>. </p>
 
 </div>
@@ -33,7 +32,7 @@ I love building side projects 😍, and most of them are <b>Open source</b>. </p
 <p align="center">
     <img height="160" alt="Ritik's Github Stats"
         src="https://github-readme-stats.vercel.app/api?username=ritik619&show_icons=true&theme=tokyonight&count_private=true" />
-    <img alt="Ritesh's Github Stats" height="160"
+    <img alt="Ritik's Github Stats" height="160"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik619&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
