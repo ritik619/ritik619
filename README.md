@@ -29,8 +29,8 @@ I love building side projects 😍, and most of them are <b>Open source</b>. </p
 
 ### :octocat: Github Stats
 <p align="center">
-    <img height="160" alt="Ritik's Github Stats"
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/ritik619?cardType=github&theme=github-dark&preferLogin=false" />
+   <img height="160" alt="Ritik's Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=ritik619&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
     <img alt="Ritik's Github Stats" height="160"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik619&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
 </p>
