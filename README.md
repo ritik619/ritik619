@@ -30,9 +30,9 @@ I love building side projects 😍, and most of them are <b>Open source</b>. </p
 ### :octocat: Github Stats
 <p align="center">
    <img height="160" alt="Ritik's Github Stats"
-        src="https://readme-stats-xi-five.vercel.app/api?username=ritik619&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
+        src="https://github-readme-stats.vercel.app/api?username=ritik619&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
     <img alt="Ritik's Github Stats" height="160"
-        src="https://readme-stats-xi-five.vercel.app/api/top-langs/?username=ritik619&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik619&hide=assembly&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 <!-- ## &nbsp;&nbsp;&nbsp;Find me around the web 🌎: <a href="https://github.com/sponsors/ritik619"><img align="left" width="450" height="230" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></a>
